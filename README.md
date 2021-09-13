@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-3f9ea3daac68.gif" width="40" height="40" />
+<img src="https://im7.ezgif.com/tmp/ezgif-7-3f9ea3daac68.gif" width="300" height="300" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
