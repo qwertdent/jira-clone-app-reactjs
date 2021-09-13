@@ -28,7 +28,7 @@ function* signinSaga(action) {
         userLogin: data.content,
       });
     }
-    history.push('/jira');
+    history.push('/usermanagement');
   } catch (error) {
     notifiFunction('error', error.response.data.message);
   }
