@@ -20,10 +20,8 @@ Comment function will help to discuss among members easily</h3>
 <h2>Setting up development environment 🛠</h2>
 
 <ul>
-<li>
-      <h5>Clone Project</>
-    <h4>git clone https://github.com/thachsteven/jira-clone-app-reactjs.git</h4>
-   </li>
+      <h5>Clone Project</h5>
+<li><h4>git clone https://github.com/thachsteven/jira-clone-app-reactjs.git</h4></li>
 <li><h4>cd jira-clone-app-reactjs</h4></li>
 <li><h4>npm install</h4></li>
 <li><h4>npm start</h4></li>
