@@ -22,8 +22,8 @@ Comment function will help to discuss among members easily</h3>
 <ul>
 <li><h4>git clone https://github.com/thachsteven/jira-clone-app-reactjs.git</h4></li>
 <li><h4>cd jira-clone-app-reactjs</h4></li>
-<li><h4>npm install</h4></li>
-<li><h4>npm start</h4></li>
+<li><h4>npm install (or yarn install)</h4></li>
+<li><h4>npm start (or yarn start)</h4></li>
     
 </ul>
 
