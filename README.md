@@ -13,7 +13,7 @@
 <hr/>
 
 <h3>You can create, edit, delete projects and add members to each project. Each project you can create multiple tasks and can change task status, add members to each task
-Comment function will help to discuss among members easily</h3>
+Comment function will help to discuss among members easily.</h3>
 <img src="https://im4.ezgif.com/tmp/ezgif-4-d0587220a7e5.gif" />
 
 <hr/>
