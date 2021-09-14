@@ -5,7 +5,7 @@
 <h2>Jira is an application for managing users and projects. You can create projects, tasks and manage it easily</h2>
 
 <h3>Here you can register an account and log in to the system</h3>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-bb2d9a7efcd0.gif" />
+<a href="https://ibb.co/Dbm2y9X"><img src="https://i.ibb.co/Dbm2y9X/loginsignup.gif" alt="loginsignup" border="0"></a>
 <hr/>
 
 <h3>All information including email, phone number, username will be managed here. You can search, sort, edit or delete users</h3>
