@@ -15,7 +15,10 @@
 
 <h3>You can create, edit, delete projects and add members to each project. Each project you can create multiple tasks and can change task status, add members to each task
 Comment function will help to discuss among members easily.</h3>
-<img src="./public/img/project.gif" alt="abc" />
+<video controls width="1000px" height="700px">
+  <source src="./public/img/project.mp4" type="video/mp4" />
+</video>
+
 
 <hr/>
 <h2>Setting up development environment 🛠</h2>
