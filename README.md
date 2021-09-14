@@ -10,12 +10,12 @@
 <hr/>
 
 <h3>All information including email, phone number, username will be managed here. You can search, sort, edit or delete users</h3>
-<img src="https://im4.ezgif.com/tmp/ezgif-4-7b1e7cb13c12.gif" />
+<img src="./public/img/user.gif" alt="abc" />
 <hr/>
 
 <h3>You can create, edit, delete projects and add members to each project. Each project you can create multiple tasks and can change task status, add members to each task
 Comment function will help to discuss among members easily.</h3>
-<img src="https://im4.ezgif.com/tmp/ezgif-4-d0587220a7e5.gif" />
+<img src="./public/img/project.gif" alt="abc" />
 
 <hr/>
 <h2>Setting up development environment 🛠</h2>
