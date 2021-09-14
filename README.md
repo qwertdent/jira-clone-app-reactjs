@@ -1,4 +1,4 @@
-<h1>A Jira Clone build with ReactJS</h1>
+<h1>A Jira Clone build with ReactJS.</h1>
 <h4>Technologies: React Functional component,React-Hook, Redux, Redux Saga, Fomik, Yup, React Router DOM, Ant Design, Axios,...</h4>
 <h4>Source: https://github.com/thachsteven/jira-clone-app-reactjs</h4>
 
