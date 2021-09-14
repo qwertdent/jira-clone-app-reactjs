@@ -10,7 +10,7 @@
 <hr/>
 
 <h3>All information including email, phone number, username will be managed here. You can search, sort, edit or delete users</h3>
-<img src="./public/img/user.gif" alt="abc" />
+<img src="./public/img/usergif.gif" alt="abc" />
 <hr/>
 
 <h3>You can create, edit, delete projects and add members to each project</h3>
