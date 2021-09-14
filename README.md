@@ -18,7 +18,7 @@
 <img src="./public/img/projectgif.gif" alt="abc" />
 <h3>Each project you can create multiple tasks and can change task status, add members to each task.
 Comment function will help to discuss among members easily.</h3>
-<img src="./public/img/task.gif" alt="abc" />
+<img src="./public/img/taskgif.gif" alt="abc" />
 
 
 <hr/>
